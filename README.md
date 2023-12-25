@@ -14,6 +14,6 @@ To use our code we require you to have a GPU.
 
 
 - After that, let follow these steps:
-    + run: `pip install -r requerements.txt`
+    + run: `pip install -r requirements.txt`
     + run: `python/python3 api.py`
   

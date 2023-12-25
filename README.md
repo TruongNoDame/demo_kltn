@@ -5,7 +5,7 @@ Our repo will provide a Vietnamese handwriting recognition API using FastAPI. Th
 To use our code we require you to have a GPU.
 
 ## Run demo
-Before running this code, I ask you to download the weight files of PARSeq and CLIP4STR.
+- Before running this code, I ask you to download the weight files of PARSeq and CLIP4STR.
 
     <ul>
       <li>PARSeq: [](https://drive.google.com/file/d/1eKAz6DLQNJiUSGNruj0UMPHJQmTWJTvE/view?usp=sharing). Put it in weight/parseq folder</li>
@@ -13,7 +13,7 @@ Before running this code, I ask you to download the weight files of PARSeq and C
     </ul>
 
 
-After that, let follow these steps:
+- After that, let follow these steps:
     + run: `pip install -r requerements.txt`
     + run: `python/python3 api.py`
   
